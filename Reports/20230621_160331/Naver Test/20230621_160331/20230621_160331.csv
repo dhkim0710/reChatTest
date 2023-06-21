@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Naver Test,Chrome 114.0.0.0,,,2023-06-21 16:03:38,2023-06-21 16:03:43,5.595s,PASSED
+,,,,,,,
+Test Cases/testCase,Chrome 114.0.0.0,,,2023-06-21 16:03:38,2023-06-21 16:03:43,5.443s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-21 16:03:38,2023-06-21 16:03:40,1.662s,PASSED
+"navigateToUrl(""https://www.naver.com/"")",Chrome 114.0.0.0,,,2023-06-21 16:03:40,2023-06-21 16:03:40,0.474s,PASSED
+"setText(findTestObject(""Object Repository/Page_NAVER/input__query""), ""검색 테스트 결과 확인"")",Chrome 114.0.0.0,,,2023-06-21 16:03:40,2023-06-21 16:03:41,0.910s,PASSED
+"click(findTestObject(""Object Repository/Page_NAVER/span__search-btn""))",Chrome 114.0.0.0,,,2023-06-21 16:03:41,2023-06-21 16:03:42,1.005s,PASSED
+"click(findTestObject(""Object Repository/Page_/a_URL   - Search Console""))",Chrome 114.0.0.0,,,2023-06-21 16:03:42,2023-06-21 16:03:43,1.175s,PASSED
